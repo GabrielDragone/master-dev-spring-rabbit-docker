@@ -1,7 +1,7 @@
 # master-dev-spring-rabbit-docker
-Tutorial: Spring Boot 3 + RabbitMQ + Docker do canal Master Dev
+Tutorial: Spring Boot 3 + RabbitMQ + Docker do canal Master Dev:
 
-https://www.youtube.com/watch?v=weAruTI623k
+[![](https://markdown-videos.vercel.app/youtube/weAruTI623k)](https://youtu.be/weAruTI623k)
 
 ### Para rodar o projeto:
 * No terminal rodar: cd .\demo-backend-worker\docker\
